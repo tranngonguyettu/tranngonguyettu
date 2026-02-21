@@ -28,7 +28,9 @@ Python (Numpy, Pandas, Scikit-learn, Seaborn, Matplotlib)
 
 Visualisation (Excel Dashboard, Tableau)
 
-([![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranngonguyettu)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tranngonguyettu&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tranngonguyettu&theme=tokyonight)
 
 ## Featured projects
 
