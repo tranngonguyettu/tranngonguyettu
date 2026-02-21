@@ -28,6 +28,8 @@ Python (Numpy, Pandas, Scikit-learn, Seaborn, Matplotlib)
 
 Visualisation (Excel Dashboard, Tableau)
 
+([![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranngonguyettu)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Featured projects
 
 [FNP Sales analysis - Customer segment - RFM analysis- Product insights](https://github.com/tranngonguyettu/FNP_Sales_Analysis.git)
