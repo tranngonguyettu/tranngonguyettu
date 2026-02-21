@@ -1,7 +1,9 @@
 ## Hi, I'm Jessica
 
 🧠 Currently majoring in Business Analytics
+
 📊 Interested in Business Intelligence, Data Analytics, Viíualisation and Machine Learning
+
 🎓 Final-year student | Macquarie University, NSW, Australia
 
 ## About Me
@@ -28,9 +30,9 @@ Visualisation (Excel Dashboard, Tableau)
 
 ## Featured projects
 
-[FNP Sales analysis - Customer segment - RFM analysis- Product insights]()
+[FNP Sales analysis - Customer segment - RFM analysis- Product insights](https://github.com/tranngonguyettu/FNP_Sales_Analysis.git)
 
-[Credit card transactions - Fraud detection]
+[Credit card transactions - Fraud detection](https://github.com/tranngonguyettu/Fraud_Detection.git)
 
 ## Contact
 
