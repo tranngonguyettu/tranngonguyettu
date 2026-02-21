@@ -14,7 +14,7 @@
 
 - Currently building my porfolio projects
 
-- Self-motivated and always improving my skills
+- Self-motivated and always learning to improve my skills
 
 ## 🛠 Skills
 
