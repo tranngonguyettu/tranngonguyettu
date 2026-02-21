@@ -6,7 +6,7 @@
 
 🎓 Final-year student | Macquarie University, NSW, Australia
 
-## About Me
+## 🎀 About Me
 
 - I enjoy turning messy data into meaningful insights through interactive dashboards
 
@@ -16,7 +16,7 @@
 
 - Self-motivated and always improving my skills
 
-## Skills
+## 🛠 Skills
 
 SQL (SELECT, JOIN, CTE, Aggregrations)
 
@@ -32,12 +32,12 @@ Visualisation (Excel Dashboard, Tableau)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tranngonguyettu&theme=tokyonight)
 
-## Featured projects
+## 📝 Featured projects
 
 [FNP Sales analysis - Customer segment - RFM analysis- Product insights](https://github.com/tranngonguyettu/FNP_Sales_Analysis.git)
 
 [Credit card transactions - Fraud detection](https://github.com/tranngonguyettu/Fraud_Detection.git)
 
-## Contact
+## 📬 Contact
 
 Email: tranngo.nguyettu@gmail.com
