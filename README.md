@@ -2,7 +2,7 @@
 
 🧠 Currently majoring in Business Analytics
 
-📊 Interested in Business Intelligence, Data Analytics, Viíualisation and Machine Learning
+📊 Interested in Business Intelligence, Data Analytics, Visualisation and Machine Learning
 
 🎓 Final-year student | Macquarie University, NSW, Australia
 
