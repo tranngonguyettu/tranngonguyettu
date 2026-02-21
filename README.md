@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi, I'm Jessica
 
-<!--
-**tranngonguyettu/tranngonguyettu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Currently majoring in Business Analytics
+📊 Interested in Business Intelligence, Data Analytics, Viíualisation and Machine Learning
+🎓 Final-year student | Macquarie University, NSW, Australia
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I enjoy turning messy data into meaningful insights through interactive dashboards
+
+- Strong focus on business understanding and coding
+
+- Currently building my porfolio projects
+
+- Self-motivated and always improving my skills
+
+## Skills
+
+SQL (SELECT, JOIN, CTE, Aggregrations)
+
+Excel (Power Query, Pivot Table)
+
+Data cleaning and transformation 
+
+Python (Numpy, Pandas, Scikit-learn, Seaborn, Matplotlib)
+
+Visualisation (Excel Dashboard, Tableau)
+
+## Featured projects
+
+[FNP Sales analysis - Customer segment - RFM analysis- Product insights]()
+
+[Credit card transactions - Fraud detection]
+
+## Contact
+
+Email: tranngo.nguyettu@gmail.com
