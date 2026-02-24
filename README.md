@@ -18,15 +18,15 @@
 
 ## 🛠 Skills
 
-SQL (SELECT, JOIN, CTE, Aggregrations)
+SQL (SELECT, JOIN, CTE, Aggregations)
 
-Excel (Power Query, Pivot Table)
+Excel (Power Query, Power Pivot, Pivot Table)
 
 Data cleaning and transformation 
 
 Python (Numpy, Pandas, Scikit-learn, Seaborn, Matplotlib)
 
-Visualisation (Excel Dashboard, Tableau)
+Visualisation (Excel Dashboard, Tableau, Power BI)
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tranngonguyettu&show_icons=true&theme=tokyonight)
 
