@@ -26,7 +26,7 @@ Data cleaning and transformation
 
 Python (Numpy, Pandas, Scikit-learn, Seaborn, Matplotlib)
 
-Visualisation (Excel Dashboard, Tableau, Power BI)
+Visualisation (Excel Dashboard, Power BI)
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tranngonguyettu&show_icons=true&theme=tokyonight)
 
